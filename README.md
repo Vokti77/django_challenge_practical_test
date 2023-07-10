@@ -1,0 +1,1 @@
+# django_challenge_practical_test
